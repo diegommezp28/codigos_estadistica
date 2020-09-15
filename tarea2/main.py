@@ -8,9 +8,9 @@ np.random.seed(seed=10)
 Y_list = []
 Z_list = []
 for i in range (0, 1000):
-    muestreo = uniform.rvs(loc=0, scale=1, size=100)
+    muestreo = uniform.rvs(loc=0, scale=1, size=1000)
     media_muestral = np.mean(muestreo)
-    Y_n = (101/100) * np.amax(muestreo)
+    Y_n = (1001/1000) * np.amax(muestreo)
     Z_n = 2 * media_muestral
 
     Y_list.append(Y_n)
@@ -29,8 +29,8 @@ plot_Z = plt.hist(Z_array, 30, alpha=0.1, color='r', density=True)
 plt.axvline(x=np.mean(Z_array), color='r', lw=1, label= f'$Z_n$ sample $\mu = {round(mu_Z, 6)}$')
 
 plt.legend()
-plt.title('100 Samples')
+plt.title('1000 Samples')
 
 plt.show()
 
-fig.savefig('100 SAMPLES.pdf', bbox_inches='tight')
+fig.savefig('1000 SAMPLES.pdf', bbox_inches='tight')
