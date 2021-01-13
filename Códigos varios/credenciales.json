@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hallowed-scene-294004",
+  "private_key_id": "d4af2a8e1cab85bc4438b9a846f8a6e59a7af356",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbJaYjQKxIXOjT\nrZLJ9QB4q/33eb1TDbMSW7saZf3Rl/RrsDRyUFCHA642NyvKRi/aeDpWbesbW+ub\nM/i3uaB4oxpGp8n3Ux2Q/xvfvCvOg9+h4VgcEem1Sp9xnNBPipBZx+OP1uoKU8a+\n+GxnBuXrBH2HDcq2wKMn1TwFj+muG5Ze6pLzX4RTnG5fCUo+3iATaMaGJCzcJKWp\nWsSgmIRVFfB2vnwhjrT8COT4hF2l+8jvOIR0VeWUWsposH03dgl6d2si5XoNTxyD\nbJk+7oyD8PqmGpXHCeCNWfwGmQZ39R61bmXSjYzdraafIc8dCMMEcM4uu48j9dju\nKAHv034HAgMBAAECggEACA4tOjSBYLORl15U+/l2h/kCf9tIu0nQoEcg7Ip9NvwX\n7vFuLBmJrDzVZYbHpErKLYSn2E94CexqD61sYgx/uo98QsaeJOo4NwE5nBLFpXSx\nfrjSzU1XQuO4UqvJ+HKGddZkJgBnX/POZWyqR2s4flgO6Sz3m5ofJTKwXx/4Hf8y\nLy5Dg1wne3qSdi2133ryrHpNsoG54BH7g/WRbMn8FSvcVBQpJSoilPFR0ZOumWwv\nHFBVFdCPW+HWjpWq6JGwGoLKbUBBaaBfSXztZLaAii33yIHR+YDHOTk2/4goqmuz\n4rkTNT6HCN20sx6Rv7EUmAMGkJ3j584HcQ7YuHbuKQKBgQDz3l/+ABIxmwNzffTQ\nQW23Xs4IHn7i5Z0k3fjtltdXuVCUpnk5qtif2MlgYuYNlXF/oj5enuTUU/eHRauf\nh+SXK15eq/AH9Lf2d6xfql+xoKyHVE6rLCo+SqtV3c+aTm7p3wdR3Vx1ba3SthX3\nsfPptDM0OF2jb0aRDfkQSd6TRQKBgQDmDHLqpHyF4ARsZm2hSfig4Eh5PpTG2YiA\n6CwHCIrHUX7ZiQTWWruirbnboQrLN+HmoYT/dJAUSUsXvAVzf68hT78nBvxjjMOv\nJY0fXswlGMXIY8xKUXfx9h9gQwSy+0IphyF6yps5S5OxZEnqhNEE+tdqmtJVyzhy\nX6yuxcSa2wKBgCcALFfhyQcX5GBnB2z62cIWrlqMDfzZfd00hqfwlLXZ1DJBwWdg\nlE5UDDiW+HW5rbIcz16wiKYQW6jNkpnr0LoAXJJFaxjKoVUQZIfUJoOwz4bBC+fC\nI2tc47PSym3CF2jdmz0TasL47HCjYDYBxqFciUfTr94AYMe39VoOhkMFAoGBAK+o\nbc8RTiwDRB1pkOiJTRm6aFx8FqpHzF1x6rxsH1vWtJ9yaokquv+a28ICk/VcdFfg\nmWdeH+39kSNMZHUu2BD9jZ5FTU7OW1VPvRRpFER3R/6dhY5x6r6NCqQ8SEhKZtjC\n4COctS3osZvQUkiKpffBed9i3Jy6Eh3zRC4nwNnlAoGBAJeAfu1PqbeVSVJPgGF5\nyoufIBmQIkoYT98sfQHYVYzGgu1kunq+9mnAkDlxKUFb4qgfug9EWRd0RekJ93ZV\noREUiKmaYTLTdDrgiQDnMMgq0DnWlzQgED4d8CycKjcKwDS99v+i4VTolwuKTiOe\nK5ymOTS1cYjcHyUBSo9d1HY0\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto2-bi@hallowed-scene-294004.iam.gserviceaccount.com",
+  "client_id": "102943890444984245227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto2-bi%40hallowed-scene-294004.iam.gserviceaccount.com"
+}
